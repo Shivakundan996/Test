@@ -1,0 +1,6 @@
+1.start
+2.enetr two numbers a and b.
+3.if a>b go to step5
+4.print "b is large". go to step6
+5.print"a is large". 
+6.stop

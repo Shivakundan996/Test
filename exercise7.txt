@@ -1,0 +1,5 @@
+1.start
+2.input distance and speed.
+3.time=distance/speed.
+4.print time.
+5.stop

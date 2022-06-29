@@ -1,0 +1,8 @@
+1.start
+2.declare character type varialbe c.
+3.intialize small alphabetic character to c.
+4.if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u')
+	print"vowel".
+  else
+	print"consonants".
+5.stop.

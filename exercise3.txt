@@ -1,0 +1,7 @@
+1.start
+2.declare five variables,sum,avg.
+3.intiliaze vlaues to five variables.
+4.add all five variables and store value in sum.
+5.divide sum by 5 and store it in avg.
+6.print sum and avg.
+7.stop

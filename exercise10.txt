@@ -1,0 +1,9 @@
+1.start
+2.declare and intiliaze age.
+3.if age <= 8,then print "kid".
+4.if age >8 & age <18,then print"teenage".
+5.if age >18 & age <60,then print "adult".
+6.else
+	print"senior citizen".
+7.stop. 
+	

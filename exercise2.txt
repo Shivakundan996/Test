@@ -1,0 +1,6 @@
+1.start
+2.declare d and m
+3.initialize d.
+4.multiply d with 1000 and store value in m.
+5.print m.
+6.end

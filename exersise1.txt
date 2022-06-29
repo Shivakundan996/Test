@@ -1,0 +1,8 @@
+Exercise1:
+
+1.Start
+2.declare three variables a,b and c.
+3.intilaize values to a nd b.
+4.divide a by b ,store quotient in c.
+5.display c.
+6.end
